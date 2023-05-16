@@ -1,5 +1,5 @@
-#  Zonas afectadas falta consumo SAL MARINA
-## Proveedor principal la guajira 
+#  SAL MARINA
+## Zonas afectadas
 > En esta labor para  crear este software orientado al reconocimiento  de las zonas donde se consume menos sal marina SAL MARINA, se identificara las zonas mas afectada por venta de sal refinada cuyo problema pricipal es la escaces de falta de minerales que deberian contener la sal natural.
 ## Aclaraciones
 + se busca que la aplicacion pueda mostrar una tabla nutricional, adicional las areas afectadas por falta de sal marina.
